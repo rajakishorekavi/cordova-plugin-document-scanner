@@ -7,5 +7,5 @@ allprojects {
 }
 
 dependencies {
-	implementation 'com.github.rajakishorekavi:scanlibrary'
+	implementation 'com.github.rajakishorekavi:scanlibrary:2.6'
 }
